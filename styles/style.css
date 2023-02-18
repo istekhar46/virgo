@@ -76,7 +76,7 @@ padding-inline:var(--padding-inline-section) ;
 
 .top-banner{
     background-color: #4fb3d4;
-    background-image: url('./img/asset\ 32.png');
+    background-image: url('../images/banner.png');
     background-size: 300px;
 }
 
